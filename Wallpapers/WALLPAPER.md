@@ -55,6 +55,13 @@ Add your wallpapers here 👇
   - **Category**: Desktop/Tablet/Mobile
 -->
 
+Title: Citrus Wave
+Description: Lime inspired wallpaper which captures zest of summer
+Designer: Sristi Dey
+
+Title: Crimson Burst
+Description: Dynamic burst of crimson accented by bllack droplets
+Designer: Sristi Dey
 
 WallGodds values creativity and collaboration. We can't wait to see your contributions! If you have any questions or need help, feel free to connect with our community on [Discord](https://discord.gg/kTQ5KWANp8).  
 
